@@ -80,6 +80,8 @@ I will use this section to document my daily coding practice and GitHub updates.
 | Day    | Topic      | Status |
 | ---------- | ----------------------- | ------ |
 | Day1|Check Whether a Number Is Even or Odd. | ✅ Completed     |
+| Day2|Find the Factorial of a Number| ✅ Completed     |
+
 
 As I complete new implementations, I will update this table to maintain a record of my consistency and progress.
 
