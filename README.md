@@ -84,6 +84,7 @@ I will use this section to document my daily coding practice and GitHub updates.
 | Day3|Check Whether a Number Is Prime.| ✅ Completed     |
 | Day4|Find the Largest Element in an Array.| ✅ Completed     |
 | Day5|Reverse an Array.| ✅ Completed     |
+| Day6|Binary Search.| ✅ Completed     |
 
 
 
