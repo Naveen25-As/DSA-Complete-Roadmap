@@ -86,6 +86,8 @@ I will use this section to document my daily coding practice and GitHub updates.
 | Day5|Reverse an Array.| ✅ Completed     |
 | Day6|Binary Search.| ✅ Completed     |
 | Day7|Find the Largest of Three Numbers.| ✅ Completed     |
+| Day8|Fibonacci Series.| ✅ Completed     |
+
 
 
 
