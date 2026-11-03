@@ -88,6 +88,7 @@ I will use this section to document my daily coding practice and GitHub updates.
 | Day7|Find the Largest of Three Numbers.| ✅ Completed     |
 | Day8|Fibonacci Series.| ✅ Completed     |
 | Day9|Check Palindrome Number.| ✅ Completed     |
+| Day10|Check Armstrong Number.| ✅ Completed     |
 
 
 
