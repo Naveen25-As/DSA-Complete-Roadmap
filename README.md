@@ -89,6 +89,8 @@ I will use this section to document my daily coding practice and GitHub updates.
 | Day8|Fibonacci Series.| ✅ Completed     |
 | Day9|Check Palindrome Number.| ✅ Completed     |
 | Day10|Check Armstrong Number.| ✅ Completed     |
+| Day11|Find GCD and LCM of Two Numbers.| ✅ Completed     |
+
 
 
 
