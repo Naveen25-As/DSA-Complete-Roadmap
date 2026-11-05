@@ -181,7 +181,7 @@ My commitment is to:
 BCA Student | Aspiring Software Developer | Python Programmer
 
 * **GitHub:** [Naveen25-As](https://github.com/Naveen25-As)
-* **LinkedIn:** [Connect with me](https://www.linkedin.com/in/naveen-asundi-0a75b739/)
+* **LinkedIn:** [Connect with me](www.linkedin.com/in/naveen-asundi-0a75b7395)
 
 ---
 
