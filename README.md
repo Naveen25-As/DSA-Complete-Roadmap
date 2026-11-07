@@ -92,6 +92,7 @@ I will use this section to document my daily coding practice and GitHub updates.
 | Day11|Find GCD and LCM of Two Numbers.| ✅ Completed     |
 | Day12|Constant Time Complexity.| ✅ Completed     |
 | Day13|Linear Time Complexity.| ✅ Completed     |
+| Day14|Quadratic Time Complexity.| ✅ Completed     |
 
 
 
