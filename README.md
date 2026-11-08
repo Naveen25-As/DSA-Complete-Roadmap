@@ -93,6 +93,8 @@ I will use this section to document my daily coding practice and GitHub updates.
 | Day12|Constant Time Complexity.| ✅ Completed     |
 | Day13|Linear Time Complexity.| ✅ Completed     |
 | Day14|Quadratic Time Complexity.| ✅ Completed     |
+| Day15|Logarithmic Time Complexity.| ✅ Completed     |
+
 
 
 
