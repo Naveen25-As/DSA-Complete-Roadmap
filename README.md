@@ -94,6 +94,7 @@ I will use this section to document my daily coding practice and GitHub updates.
 | Day13|Linear Time Complexity.| ✅ Completed     |
 | Day14|Quadratic Time Complexity.| ✅ Completed     |
 | Day15|Logarithmic Time Complexity.| ✅ Completed     |
+| Day16|Binary Search Complexity.| ✅ Completed     |
 
 
 
