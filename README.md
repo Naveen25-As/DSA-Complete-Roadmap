@@ -95,6 +95,7 @@ I will use this section to document my daily coding practice and GitHub updates.
 | Day14|Quadratic Time Complexity.| ✅ Completed     |
 | Day15|Logarithmic Time Complexity.| ✅ Completed     |
 | Day16|Binary Search Complexity.| ✅ Completed     |
+| Day17| Traverse an Array.| ✅ Completed     |
 
 
 
