@@ -97,6 +97,7 @@ I will use this section to document my daily coding practice and GitHub updates.
 | Day16|Binary Search Complexity.| ✅ Completed     |
 | Day17|Traverse an Array.| ✅ Completed     |
 | Day18|Find the Largest Element in an Array.| ✅ Completed     |
+| Day19|Find the Second Largest Distinct Element.| ✅ Completed     |
 
 
 
