@@ -98,13 +98,7 @@ I will use this section to document my daily coding practice and GitHub updates.
 | Day17|Traverse an Array.| ✅ Completed     |
 | Day18|Find the Largest Element in an Array.| ✅ Completed     |
 | Day19|Find the Second Largest Distinct Element.| ✅ Completed     |
-
-
-
-
-
-
-
+| Day20|Reverse an Array.| ✅ Completed     |
 
 As I complete new implementations, I will update this table to maintain a record of my consistency and progress.
 
