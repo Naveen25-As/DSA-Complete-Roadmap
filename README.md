@@ -101,6 +101,8 @@ I will use this section to document my daily coding practice and GitHub updates.
 | Day20|Reverse an Array.| ✅ Completed     |
 | Day21|Remove Duplicates from an Array.| ✅ Completed     |
 | Day22|Rotate an Array to the Right by K Positions.| ✅ Completed     |
+| Day23|Move Zeros to the End of an Array.| ✅ Completed     |
+
 
 
 As I complete new implementations, I will update this table to maintain a record of my consistency and progress.
