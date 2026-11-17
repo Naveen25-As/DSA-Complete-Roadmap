@@ -102,6 +102,8 @@ I will use this section to document my daily coding practice and GitHub updates.
 | Day21|Remove Duplicates from an Array.| ✅ Completed     |
 | Day22|Rotate an Array to the Right by K Positions.| ✅ Completed     |
 | Day23|Move Zeros to the End of an Array.| ✅ Completed     |
+| Day24|Two sum.| ✅ Completed     |
+
 
 
 
