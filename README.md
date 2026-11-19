@@ -104,6 +104,8 @@ I will use this section to document my daily coding practice and GitHub updates.
 | Day23|Move Zeros to the End of an Array.| ✅ Completed     |
 | Day24|Two sum.| ✅ Completed     |
 | Day25|Maximum Subarray Sum Using Kadane's Algorithm.| ✅ Completed     |
+| Day26|Merge Two Sorted Arrays.| ✅ Completed     |
+
 
 
 
