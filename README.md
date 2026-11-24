@@ -109,6 +109,7 @@ I will use this section to document my daily coding practice and GitHub updates.
 | Day28|Check Whether a String Is a Palindrome.| ✅ Completed     |
 | Day29|Count Vowels in a String.| ✅ Completed     |
 | Day30|Character Frequency Counter.| ✅ Completed     |
+| Day31|Check Whether Two Strings Are Anagrams.| ✅ Completed     |
 
 As I complete new implementations, I will update this table to maintain a record of my consistency and progress.
 
