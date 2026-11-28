@@ -113,6 +113,7 @@ I will use this section to document my daily coding practice and GitHub updates.
 | Day32|Find the First Non-Repeating Character.| ✅ Completed     |
 | Day33|Longest Substring Without Repeating Characters.| ✅ Completed     |
 | Day34|Linear Search.| ✅ Completed     |
+| Day35|Binary Search.| ✅ Completed     |
 
 
 As I complete new implementations, I will update this table to maintain a record of my consistency and progress.
